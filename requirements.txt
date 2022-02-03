@@ -1,0 +1,3 @@
+telethon==1.24.0
+colorama==0.4.3
+BeastX==0.3
