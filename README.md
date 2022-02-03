@@ -2,7 +2,7 @@
 <h2 align="center"><b>OwNeR <a href="https://telegram.dog/Godmrunal">⚡️ ＭＲＵＮＡＬ•🇮🇳•🚀</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/msy1717/MemberAdder"><img src="https://telegra.ph/file/4a1e0ee716f805cf66777.jpg" alt="Beast" width=400px></a>
+   <a href="https://github.com/msy1717/MemberAdder"><img src="beast/image.jpg" alt="Beast" width=400px></a>
    <br>
    <br>
 </p>
