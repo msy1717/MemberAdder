@@ -207,7 +207,7 @@ while True:
                     clnt.send_code_request(phn)
                     print('kk')
                 except PhoneNumberBannedError:
-                    print(f'{error} {w}{phn} {r}is banned!{rs}')
+                    print(f'{w}{phn} {r}is banned!{rs}')
                     banned.append(a)
             for z in banned:
                 accounts.remove(z)
