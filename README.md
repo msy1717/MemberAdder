@@ -1,3 +1,1 @@
-# MemberAdder
- 
- **Beast Member Adder Script**
+#**Beast Member Adder Script**
