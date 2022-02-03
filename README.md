@@ -1,4 +1,7 @@
 
+<h1> Beast Member Adder Script</h1>
+
+
 <h2 align="center"><b>OwNeR <a href="https://telegram.dog/Godmrunal">⚡️ ＭＲＵＮＡＬ•🇮🇳•🚀</a></b></h2>
 <br>
 
@@ -6,7 +9,6 @@
 
 <p align='center'><img src='https://github.com/msy1717MemberAdder/A/blob/main/beast/image.jpg' width='327' height='368.5'></p>
           
-<h1> Beast Member Adder Script</h1>
 
 # TuToRiaL
 
