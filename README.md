@@ -8,9 +8,7 @@
  ██╔══██╗██╔══╝  ██╔══██║╚════██║   ██║
  ██████╔╝███████╗██║  ██║███████║   ██║
  ╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚══════╝   ╚═╝
-            Author: github.com/msy1717
-            Developer : @Godmrunal
-
+          
 <h1> Beast Member Adder Script</h1>
 
 # TuToRiaL
